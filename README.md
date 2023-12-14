@@ -14,7 +14,7 @@ This is an application created to showcase the use of MongoDB, Express.js, and M
 - [Questions](#questions)
 
 ## Video Demonstration
-https://drive.google.com/file/ 
+[https://drive.google.com/file/](https://drive.google.com/file/d/1vEwSCxoLKeV4c3bp5RDMDVUysbFYRoPT/view) 
 
 ## Installation Instructions
 In order to deploy the application, run "npm install" in the terminal.
